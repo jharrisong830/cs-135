@@ -3,3 +3,5 @@
 package-lock.json
 *.zip
 node_modules/
+*.bak
+
